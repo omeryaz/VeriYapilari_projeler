@@ -1,1 +1,1 @@
-Patika ÖDevleri için oluşturulmuştur.
+Patika Ödevleri için oluşturulmuştur.
